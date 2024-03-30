@@ -17,3 +17,7 @@ This repository contains the source code for a simple chat application built usi
 5.  Install client dependencies:
 
 
+
+<img width="1440" alt="Screenshot 2024-03-31 at 02 18 44" src="https://github.com/codERSunny812/Socket-learning/assets/95053082/0f969b58-eb9f-4294-8843-147c3c6c5348">
+
+
