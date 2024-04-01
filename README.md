@@ -26,6 +26,7 @@ This repository contains the source code for a simple chat application built usi
 3. Install server dependencies:
     ```
     <!-- move to the server directory -->
+    
      cd server 
 
      <!-- install the dependencies -->
@@ -37,11 +38,14 @@ This repository contains the source code for a simple chat application built usi
 
 ```
 <!-- move to the client directory -->
+
 cd client 
 
 <!-- install the dependencies -->
+npm i
+
 ```
-5.Start the project:
+5. Start the project:
 ```
 <!-- for client  -->
 
