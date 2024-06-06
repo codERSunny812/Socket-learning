@@ -23,34 +23,3 @@ This repository contains the source code for a simple chat application built usi
    ```
    cd socket learning
    ```
-3. Install server dependencies:
-    ```
-    <!-- move to the server directory -->
-     cd server 
-
-     <!-- install the dependencies -->
-
-     npm i
-
-    ```
-4. Navigate to the client directory:
-
-```
-<!-- move to the client directory -->
-cd client 
-
-<!-- install the dependencies -->
-```
-5.Start the project:
-```
-<!-- for client  -->
-
-npm run dev
-
-<!-- for server -->
-
-npm run start
-
-```
-
-<img width="1440" alt="Screenshot 2024-03-31 at 02 18 44" src="https://github.com/codERSunny812/Socket-learning/assets/95053082/0f969b58-eb9f-4294-8843-147c3c6c5348">
